@@ -126,7 +126,7 @@ L.drawLocal = {
 				tooltip: {
 					start: 'Cliquez pour commencer à dessiner la forme',
 					cont: 'Cliquez pour continuer à dessiner la forme',
-					end: 'Cliquez sur le premier point pour finaliser catte forme'
+					end: 'Cliquez sur le premier point pour finaliser cette forme'
 				}
 			},
 			polyline: {
